@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/DemoScene_CleanStepCouchNear.unity
+    guid: f7dc9ee0cbbcb494fa83e9eb38a486bf
+  - enabled: 0
+    path: Assets/Scenes/Sleep.unity
+    guid: 24e5a1907209eb849919c2f75d460ec4
+  - enabled: 0
+    path: Assets/Scenes/SleepBig.unity
+    guid: 9a2afbd108b748644913cf02f16f5627
+  - enabled: 0
+    path: Assets/Scenes/KitchenTable.unity
+    guid: ab2386905c3ae13488ebbbc216af1420
+  - enabled: 0
+    path: Assets/Scenes/Table.unity
+    guid: f869f3e4d9a045349bc14c8f8eeec338
+  - enabled: 0
+    path: Assets/Scenes/Couch.unity
+    guid: e413f6daea4828e438007732c81ba507
+  - enabled: 0
+    path: Assets/Scenes/TableNearSitten.unity
+    guid: 6ffbb73ac0b068d4086a24756321620d
+  - enabled: 0
+    path: Assets/Scenes/NearBookCouch.unity
+    guid: 7d347c99bb709d442a2be32a7c2192bb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
